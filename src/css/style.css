@@ -1,0 +1,50 @@
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-items-center {
+  justify-items: center;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mr-auto {
+  margin-right: auto;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header .brand-logo {
+  position: static;
+}
+
+.header .currency-select input.select-dropdown {
+  margin: 0;
+  color: #fff;
+  border-bottom: none;
+}
+
+.header .currency-select input.select-dropdown:focus {
+  border-bottom: none;
+}
+
+.header .currency-select .caret {
+  fill: #fff;
+}
+
+.header .currency-select {
+  width: 120px;
+}
+
+.header .brand-logo {
+  font-size: 1.5rem;
+}
